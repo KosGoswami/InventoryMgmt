@@ -20,7 +20,7 @@ create new user : name : IMUser, Password: IMPwd with all the access
 Log in using credentials run database script from the folder file name : "InventroyManagement.sql"
 
 ## How to set up 'Inventory Management' solution in development environment
-Get Inventory Management code from git URL: ""
+Get Inventory Management code from git URL: "https://github.com/KosGoswami/InventoryMgmt"
 Open InventoryMgmt.sln using visual studio
 Build & run InventoryMgmt.sln for sanity check
 

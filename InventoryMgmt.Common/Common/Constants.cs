@@ -51,7 +51,7 @@
     }
     #endregion
 
-     #region request status
+    #region request status
     public static class Status
     {
         public const string Default = "Default";
@@ -68,10 +68,10 @@
         public const int Success = 200;
         public const int Fail = 400;
     }
-        #endregion
+    #endregion
 
-        #region data object/model names
-        public static class ModelName
+    #region data object/model names
+    public static class ModelName
     {
         public const string Beers = "Beers";
         public const string Bars = "Bars";
@@ -104,7 +104,7 @@
         public const string InsertBeerBrewery = "InsertBeerBrewery";
         public const string InsertLog = "InsertLog";
     }
-    
+
     public static class DParameter
     {
         //Common
